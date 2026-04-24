@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi 👋, I'm Omar
 
-<!--
-**OmarMahmoud-m/OmarMahmoud-m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Sophomore Computer Science student at Ain Shams University  
+💻 Aspiring Frontend Developer  
 
-Here are some ideas to get you started:
+## 🚀 About Me
+I’m currently focused on frontend development and building real-world web projects.  
+I’ve learned **HTML** and **CSS** and used them to create several projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Right now, I’m learning **JavaScript** and **Bootstrap**, and I’m actively building a project using both to strengthen my skills.
+
+## 🛠️ Skills
+- HTML
+- CSS
+- Bootstrap (learning)
+- JavaScript (learning)
+
+## 📚 Currently Working On
+- Improving my frontend development skills
+- Building responsive web projects
+
+## 🎯 Goal
+To become a skilled frontend developer and build impactful, user-friendly web applications.
