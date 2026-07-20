@@ -1,23 +1,17 @@
 # Hi 👋, I'm Omar
-
-🎓 Sophomore Computer Science student at Ain Shams University  
-💻 Aspiring Frontend Developer  
-
+🎓 Third-year Computer Science student at Ain Shams University  
+💻 Frontend-focused developer, learning full-stack  
 ## 🚀 About Me
-I’m currently focused on frontend development and building real-world web projects.  
-I’ve learned **HTML** and **CSS** and used them to create several projects.
-
-Right now, I’m learning **JavaScript** and **Bootstrap**, and I’m actively building a project using both to strengthen my skills.
-
+Learning frontend and full-stack development by building real-world projects. Currently deep into React.
 ## 🛠️ Skills
-- HTML
-- CSS
-- Bootstrap (learning)
-- JavaScript (learning)
-
+- HTML, CSS, JavaScript
+- React, Vite
+- Bootstrap
+- Git & GitHub
+- Python, Java, OOP
+- C++, Data Structures & Algorithms
 ## 📚 Currently Working On
-- Improving my frontend development skills
-- Building responsive web projects
-
+- Sharpening my React and frontend skills through new projects
+- Improving my problem solving skills
 ## 🎯 Goal
-To become a skilled frontend developer and build impactful, user-friendly web applications.
+To land a frontend/full-stack internship and grow into a skilled developer who builds impactful, user-friendly web applications.
