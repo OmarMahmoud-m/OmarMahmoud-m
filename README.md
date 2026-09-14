@@ -1,5 +1,5 @@
 # Hi 👋, I'm Omar
-🎓 Second-year Computer Science student at Ain Shams University  
+🎓 Third-year Computer Science student at Ain Shams University  
 💻 Frontend-focused developer, learning full-stack  
 ## 🚀 About Me
 Learning frontend and full-stack development by building real-world projects. Currently deep into React.
