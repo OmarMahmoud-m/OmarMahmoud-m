@@ -91,7 +91,7 @@ Third-year CS student at Ain Shams University, building modern web apps and expl
 <a href="https://www.linkedin.com/in/omar-mahmoud-3b82aa32b">
   <img src="https://img.shields.io/badge/LINKEDIN-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:YOUR_EMAIL@example.com">
+<a href="mailto:omarmahmoudelsaeid">
   <img src="https://img.shields.io/badge/SEND%20EMAIL-ea4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
