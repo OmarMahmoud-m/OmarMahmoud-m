@@ -38,9 +38,9 @@ Third-year CS student at Ain Shams University, building modern web apps and expl
 
 | Project | Description | Stack | Repository |
 |:--|:--|:--|:--|
-| **Amazon Clone** | E-commerce storefront with responsive header, cart, orders and search. | `React` `CSS` | [View Code](https://github.com/OmarMahmoud-m/REPO-NAME) |
-| **Loom** | Social media web app with posts, auth and dynamic UI, built with vanilla JavaScript against a REST API. | `JavaScript` `Bootstrap` `Axios` | [View Code](https://github.com/OmarMahmoud-m/REPO-NAME) |
-| **Cinema Notifier** | Tracks Egyptian cinema chains and emails users the moment booking opens. *(Runs locally, not deployed.)* | `Node.js` | [View Code](https://github.com/OmarMahmoud-m/REPO-NAME) |
+| **Amazon Clone** | E-commerce storefront with responsive header, cart, orders and search. | `React` `CSS` | [View Code](https://github.com/OmarMahmoud-m/Ecommerce_website) |
+| **Loom** | Social media web app with posts, auth and dynamic UI, built with vanilla JavaScript against a REST API. | `JavaScript` `Bootstrap` `Axios` | [View Code](https://github.com/OmarMahmoud-m/socialMedia) |
+| **Cinema Notifier** | Tracks Egyptian cinema chains and emails users the moment booking opens. *(Runs locally, not deployed.)* | `Node.js` | [View Code](https://github.com/OmarMahmoud-m/cinemaNotifier) |
 
 ### 🧠 Machine Learning
 
