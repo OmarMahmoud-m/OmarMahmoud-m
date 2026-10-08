@@ -21,7 +21,7 @@ Third-year CS student at Ain Shams University, building modern web apps and expl
 |:--|:--|
 | **Frontend & UI** | <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,vite" /> |
 | **Languages** | <img src="https://skillicons.dev/icons?i=cpp,py,java,js" /> |
-| **Data & ML** | <img src="https://skillicons.dev/icons?i=py,pandas,numpy,sklearn" /> |
+| **Data & ML** | <img src="https://skillicons.dev/icons?i=py,sklearn" /> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" /> |
 | **Tools** | <img src="https://skillicons.dev/icons?i=git,github" /> |
 
 </div>
