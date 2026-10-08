@@ -70,7 +70,7 @@ Third-year CS student at Ain Shams University, building modern web apps and expl
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=OmarMahmoud-m&theme=dark&hide_border=true&background=0d1117" />
+<img src="https://streak-stats.demolab.com/?user=OmarMahmoud-m&theme=dark&hide_border=true&background=0d1117" />
 
 <img src="https://github-readme-stats.vercel.app/api?username=OmarMahmoud-m&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmarMahmoud-m&layout=compact&theme=tokyonight&hide_border=true" height="160" />
